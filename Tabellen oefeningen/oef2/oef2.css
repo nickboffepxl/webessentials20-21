@@ -1,0 +1,19 @@
+table{
+    border: 1px solid crimson;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid crimson;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+body{
+    background-image: url("assets/hout.jpg");
+}
+.wit{
+    background-image: url("assets/witte-marmer.jpg");
+}
+.zwart{
+    background-image: url("assets/zwarte-marmer.jpg");
+}
